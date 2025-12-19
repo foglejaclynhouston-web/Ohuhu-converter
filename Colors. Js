@@ -1,0 +1,8 @@
+const colors = [
+  {
+    oldCode: "Y2",
+    oldName: "Lemon Yellow",
+    newCode: "Y020",
+    newName: "Lemon Mist"
+  }
+];
